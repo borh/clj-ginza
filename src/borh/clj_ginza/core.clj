@@ -1,7 +1,7 @@
-(ns clj-ginza.core
+(ns borh.clj-ginza.core
   (:require [libpython-clj.python :as py]
             [libpython-clj.jna.base]
-            [clj-ginza.utils :refer [->python-case ->clojure-case ->clojure-case-map]]
+            [borh.clj-ginza.utils :refer [->python-case ->clojure-case ->clojure-case-map]]
             [aero.core :as aero]
             [clojure.spec.alpha :as s])
   (:import (clojure.lang IPersistentCollection)))

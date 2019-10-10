@@ -1,4 +1,4 @@
-(ns clj-ginza.utils
+(ns borh.clj-ginza.utils
   (:require [camel-snake-kebab.core :as csk]
             [camel-snake-kebab.extras :as cske]
             [clojure.core.memoize :as m]))
