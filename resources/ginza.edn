@@ -1,0 +1,2 @@
+{:python-interpreter #or [#env PYTHON_INTERPRETER "python3"]
+ :model              #or [#env GINZA_MODEL "ja_ginza"]}
